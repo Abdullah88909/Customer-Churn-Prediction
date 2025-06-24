@@ -135,8 +135,8 @@ To replicate and explore this project:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourGitHubUsername/customer-churn-prediction-repo.git](https://github.com/YourGitHubUsername/customer-churn-prediction-repo.git)
-    cd customer-churn-prediction-repo
+    git clone [https://github.com/Abdullah88909/Customer-Churn-Prediction.git](https://github.com/Abdullah88909/Customer-Churn-Prediction.git)
+    cd Customer-Churn-Prediction
     ```
 2.  **Install Dependencies:**
     ```bash
@@ -144,8 +144,7 @@ To replicate and explore this project:
     ```
 3.  **Open the Jupyter Notebook:**
     ```bash
-    jupyter notebook Customer_Churn_Pred_Mod.ipynb
+    jupyter notebook Customer_Churn_Pred__ML_Mod.ipynb
     ```
     (Ensure `jupyter` is installed. If not, `pip install jupyterlab` or `pip install notebook`)
-
 ---
